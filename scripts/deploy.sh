@@ -60,3 +60,4 @@ apply_k8s_manifests
 # Hash 3148
 # Hash 8691
 # Hash 4230
+# Hash 6206
